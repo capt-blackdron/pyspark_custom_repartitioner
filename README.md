@@ -9,3 +9,6 @@ Just use this custom repartitioner :-)
 This is an utility to handle small files issue in Spark. This utility help to repartition dataframe based on salted key. Salted key provides better distribition of records so that target hdfs path will have files of same size.
 
 # Thank You
+
+Please give credit by copying git link if you wish to put this code on your blog...
+Suggest changes to improve it...
